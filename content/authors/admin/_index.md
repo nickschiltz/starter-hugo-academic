@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: nks8@case.edu
+    link: "#/contact"
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=b9KoMBkAAAAJ
