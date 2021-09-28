@@ -12,19 +12,21 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: nks8@case.edu
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=b9KoMBkAAAAJ
+  - display:
+      header: false
+    icon_pack: ai
+    icon: orcid
+    link: https://orcid.org/0000-0003-0122-6477
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/nickschiltz/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/nickschiltz
 organizations:
   - name: Case Western Reserve University
     url: https://case.edu/nursing/about/fpb-directories/faculty-directory/nicholas-k-schiltz
@@ -43,8 +45,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Dr. Schiltz is an Assistant Professor at the Frances Payne Bolton School of Nursing at Case Western Reserve University, with secondary appointments in Population & Quantitative Health Science and the Center for Community Health Integration. His expertise involves applying modern methods in data science to study patients with complex chronic disease, utilizing large health care databases including medical claims, hospital data, registry data, vital statistics, and national surveys. Some of his current research projects include using data mining and machine learning to identify patterns of comorbidity and polypharmacy in the population, and developing a point-of-service clinical tool to predict patients at high risk of developing opioid use disorder.
