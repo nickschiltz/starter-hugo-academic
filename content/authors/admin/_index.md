@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#/contact"
+    link: "#contact"
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=b9KoMBkAAAAJ
@@ -26,7 +26,7 @@ social:
     link: https://github.com/nickschiltz/
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/nickschiltz
+    link: https://www.linkedin.com/in/nickschiltz/
 organizations:
   - name: Case Western Reserve University
     url: https://case.edu/nursing/about/fpb-directories/faculty-directory/nicholas-k-schiltz
