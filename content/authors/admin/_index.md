@@ -4,9 +4,13 @@ role: Assistant Professor
 bio: My research interests involve applying interpretable machine learning
   algorithms to large healthcare datasets to inform clinical decision-making
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Application of machine learning and data mining methods to complex
+    problems  Patterns and trajectories of multimorbidity and associated
+    outcomes Patterns of polypharmacy and associated risk factors Healthcare
+    cost
+  - utilization
+  - and outcomes research Large administrative databases and national health
+    surveys
 social:
   - icon: envelope
     icon_pack: fas
