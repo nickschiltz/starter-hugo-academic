@@ -24,19 +24,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Case Western Reserve University
+    url: https://case.edu/nursing/about/fpb-directories/faculty-directory/nicholas-k-schiltz
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: KL2 Clinical Research Training Program
+      institution: Case Western Reserve University (Cleveland, OH)
+      year: 2018
+    - course: PhD in Epidemiology & Biostatistics
+      institution: Case Western Reserve University (Cleveland, OH)
+      year: 2013
+    - course: BS in Economics / BA in Political Science
+      institution: Miami University (Oxford, OH)
+      year: 2004
 email: ""
 superuser: true
 highlight_name: true
