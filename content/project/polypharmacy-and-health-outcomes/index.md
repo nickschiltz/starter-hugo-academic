@@ -6,6 +6,11 @@ summary: This project seeks to measure the prevalence of common combinations of
   with poor outcomes and high cost.
 draft: false
 featured: false
+tags:
+  - Polypharmacy
+  - Multimorbidity
+  - Machine Learning
+  - Association Rules
 image:
   filename: featured
   focal_point: Smart
