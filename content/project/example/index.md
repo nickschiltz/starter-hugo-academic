@@ -4,12 +4,14 @@ url_pdf: ""
 summary: Applying association rule and sequential pattern mining methods to
   identify patterns and trajectories of multimorbidity at the population level.
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
 title: Patterns of Multimorbidity
 tags:
-  - Deep Learning
+  - Multimorbidity
+  - Machine Learning
+  - Large Data
 links:
   - icon: twitter
     icon_pack: fab
