@@ -1,0 +1,116 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: 'Is there increased value in robotic arm-assisted total hip arthroplasty? :
+  a nationwide outcomes, trends, and projections analysis of 4,699,894 cases'
+subtitle: ''
+summary: ''
+authors:
+- Ahmed K. Emara
+- Guangjin Zhou
+- Alison K. Klika
+- Siran M. Koroukian
+- Nicholas K. Schiltz
+- Carlos A. Higuera-Rueda
+- Robert M. Molloy
+- Nicolas S. Piuzzi
+tags:
+- '"Adult"'
+- '"Aged"'
+- '"Aged"'
+- '"80 and over"'
+- '"Arthroplasty"'
+- '"Replacement"'
+- '"Hip"'
+- '"chi-squared test"'
+- '"comorbidities"'
+- '"Complications"'
+- '"Computer-assisted total hip arthroplasty (CA-THA)"'
+- '"Databases"'
+- '"Factual"'
+- '"early dislocation"'
+- '"Female"'
+- '"Forecasting"'
+- '"Hip dislocation"'
+- '"Humans"'
+- '"In-hospital outcomes"'
+- '"Length of Stay"'
+- '"Male"'
+- '"mechanical complications"'
+- '"Middle Aged"'
+- '"periprosthetic fractures"'
+- '"Postoperative Complications"'
+- '"primary THAs"'
+- '"Projections"'
+- '"propensity score matching"'
+- '"Regional variation"'
+- '"Retrospective Studies"'
+- '"Robotic arm"'
+- '"Robotic arm-assisted total hip arthroplasty (RA-THA)"'
+- '"Robotic Surgical Procedures"'
+- '"Surgery"'
+- '"Computer-Assisted"'
+- '"t-test"'
+- '"Total hip arthroplasty (THA)"'
+- '"Trends"'
+- '"United States"'
+- '"Utilization rate"'
+categories: []
+date: '2021-09-01'
+lastmod: 2021-09-30T15:29:05-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-09-30T19:29:03.437330Z'
+publication_types:
+- '2'
+abstract: 'AIMS: The current study aimed to compare robotic arm-assisted (RA-THA),
+  computer-assisted (CA-THA), and manual (M-THA) total hip arthroplasty regarding
+  in-hospital metrics including length of stay (LOS), discharge disposition, in-hospital
+  complications, and cost of RA-THA versus M-THA and CA-THA versus M-THA, as well
+  as trends in use and uptake over a ten-year period, and future projections of uptake
+  and use of RA-THA and CA-THA. METHODS: The National Inpatient Sample was queried
+  for primary THAs (2008 to 2017) which were categorized into RA-THA, CA-THA, and
+  M-THA. Past and projected use, demographic characteristics distribution, income,
+  type of insurance, location, and healthcare setting were compared among the three
+  cohorts. In-hospital complications, LOS, discharge disposition, and in-hospital
+  costs were compared between propensity score-matched cohorts of M-THA versus RA-THA
+  and M-THA versus CA-THA to adjust for baseline characteristics and comorbidities.
+  RESULTS: RA-THA and CA-THA did not exhibit any clinically meaningful reduction in
+  mean LOS (RA-THA 2.2 days (SD 1.4) vs 2.3 days (SD 1.8); p textless 0.001, and CA-THA
+  2.5 days (SD 1.9) vs 2.7 days (SD 2.3); p textless 0.001, respectively) compared
+  to their respective propensity score-matched M-THA cohorts. RA-THA, but not CA-THA,
+  had similar non-home discharge rates to M-THA (RA-THA 17.4% vs 18.5%; p = 0.205,
+  and 18.7% vs 24.9%; p textless 0.001, respectively). Implant-related mechanical
+  complications were lower in RA-THA (RA-THA 0.5% vs M-THA 3.1%; p textless 0.001,
+  and CA-THA 1.2% vs M-THA 2.2%; p textless 0.001), which was associated with a significantly
+  lower in-hospital dislocation (RA-THA 0.1% vs M-THA 0.8%; p textless 0.001). Both
+  RA-THA and CA-THA demonstrated higher mean higher index in-hospital costs (RA-THA
+  $18,416 (SD $8,048) vs M-THA $17,266 (SD $8,396); p textless 0.001, and CA-THA $20,295
+  (SD $8,975) vs M-THA $18,624 (SD $9,226); p textless 0.001, respectively). Projections
+  indicate that 23.9% and 3.2% of all THAs conducted in 2025 will be robotic arm-
+  and computer-assisted, respectively. Projections indicated that RA-THA use may overtake
+  M-THA by 2028 (48.3%) and reach 65.8% of all THAs by 2030. CONCLUSION: Technology-assisted
+  THA, particularly RA-THA, may provide value by lowering in-hospital early dislocation
+  rates and and other in-hospital metrics compared to M-THA. Higher index-procedure
+  and hospital costs warrant further comprehensive cost analyses to determine the
+  true added value of RA-THA in the episode of care, particularly since we project
+  that one in four THAs in 2025 and two in three THA by 2030 will use RA-THA technology.
+  Cite this article: Bone Joint J 2021;103-B(9):1488-1496.'
+publication: '*The Bone & Joint Journal*'
+doi: 10.1302/0301-620X.103B9.BJJ-2020-2411.R1
+---

@@ -1,0 +1,78 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: 'Epilepsy surgery in the United States: Analysis of data from the National
+  Association of Epilepsy Centers'
+subtitle: ''
+summary: ''
+authors:
+- Kitti Kaiboriboon
+- Ayham M. Malkhachroum
+- Ahmad Zrik
+- Ahmad Daif
+- Nicholas M. Schiltz
+- David M. Labiner
+- Samden D. Lhatoo
+tags:
+- '"Academic Medical Centers"'
+- '"Anticonvulsants"'
+- '"Epilepsy"'
+- '"Epilepsy surgery"'
+- '"Female"'
+- '"Health Surveys"'
+- '"Humans"'
+- '"Male"'
+- '"Neurosurgical Procedures"'
+- '"Refractory epilepsy"'
+- '"Temporal trends"'
+- '"United States"'
+- '"Vagus Nerve Stimulation"'
+categories: []
+date: '2015-10-01'
+lastmod: 2021-09-30T15:30:04-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-09-30T19:30:03.234995Z'
+publication_types:
+- '2'
+abstract: "OBJECTIVE: To examine trends in epilepsy-related surgical procedures performed\
+  \ at major epilepsy centers in the US between 2003 and 2012, and in the service\
+  \ provision infrastructure of epilepsy centers over the same time period. METHODS:\
+  \ We analyzed data from the National Association of Epilepsy Centers' (NAEC) annual\
+  \ surveys. The total annual figures, annual average figures per center and annual\
+  \ rates of each surgical procedure based on US population numbers for that year\
+  \ were calculated. Additional information on center infrastructure and manpower\
+  \ was also examined. RESULTS: The number of the NAEC's level 3 and level 4 epilepsy\
+  \ centers submitting annual survey reports increased from 37 centers in 2003 to\
+  \ 189 centers in 2012. The average reported number of Epilepsy Monitoring Unit (EMU)\
+  \ beds per center increased from 7 beds in 2008 to 8 beds in 2012. Overall annual\
+  \ EMU admission rates doubled between 2008 and 2012 but the average number of EMU\
+  \ admissions and epilepsy surgeries performed per center declined over the same\
+  \ period. The annual rate of anterior temporal lobectomies (ATL) for mesial temporal\
+  \ sclerosis (MTS) declined by textgreater65% between 2006 and 2010. The annual rate\
+  \ of extratemporal surgery exceeded that of ATL for MTS from 2008 onwards, doubled\
+  \ between 2007 and 2012 and comprised 38% of all resective surgeries in 2012. Vagus\
+  \ nerve stimulator implant rates consistently increased year on year and exceeded\
+  \ resective surgeries in 2011 and 2012. CONCLUSION: The last decade has seen a major\
+  \ change in the US epilepsy surgery landscape. Temporal lobectomies, particularly\
+  \ for MTS, have declined despite an increase in EMU admissions. On the other hands,\
+  \ case complexity correspondingly increased as evidenced by more extratemporal surgery,\
+  \ intracranial recordings and palliative procedures."
+publication: '*Epilepsy Research*'
+doi: 10.1016/j.eplepsyres.2015.07.007
+---
