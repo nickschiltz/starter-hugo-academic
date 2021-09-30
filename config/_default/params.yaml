@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: ocean
 day_night: true
 font: ''
 font_size: L
@@ -20,40 +20,29 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: nks8@case.edu
+phone: (216) 368-5626
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 10900 Euclid Avenue
+  city: Cleveland
+  region: OH
+  postcode: '44106-7343'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '41.50416'
+  longitude: '-81.61973'
+directions: 4th floor of Samson Pavilion. Room 459H. School of Nursing offices are on east side of building
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+  - 'By appointment'
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
+# appointment_url: 'https://calendly.com'
+#contact_links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: DM Me
+#    link: 'https://twitter.com/Twitter'
 
 # Site header
 
